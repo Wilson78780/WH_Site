@@ -1,6 +1,6 @@
 
 <footer>
-    <div id="footerAccueil">
+    <span id="footerAccueil">
         <div id="div_propriete_footer">
             Propriété de Wilson HUARD <br>
             <small>
@@ -10,5 +10,5 @@
             Created 10 Novembre 2020;<br>
             Last update jeu. 11 novembre. 2020
         </div>
-    </div>
+    </span>
 </footer>
