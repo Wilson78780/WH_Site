@@ -1,0 +1,76 @@
+body {
+    padding: 0;
+    margin: 0 ;
+    background-color: #162035;
+}
+
+#Bande {
+    background-color: white;
+    border-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.liste {
+    display: block;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 10px;
+}
+.elementList {
+    width: 12.5%;
+    float: left;
+    font-size: 25px;
+    color: black;
+    text-decoration:none;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 10px 100px / 120px;
+}
+
+#Connexion {
+    text-align: center;
+}
+
+#Bloc_Connexion {
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 10%;
+    color: #162035;
+    padding-bottom: 20px;
+    padding-top: 1px;
+    background-image: linear-gradient(#ffffff, #8d8c8c);
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7),
+                -1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+}
+
+form {
+    text-align: center;
+}
+
+#Bouton {
+    width: 200px;
+    padding: 5px;
+    font-size: 17px;
+}
+
+#footerAccueil {
+    width: 100%;
+    font-size: .9em;
+    display: inline-flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    bottom: 0;
+    position: absolute;
+    background-color: white;
+    color: black;
+}
+
+#div_propriete_footer{
+    text-align: center;
+    display: inline;
+    width: 100%;
+    margin: 5px;
+}
