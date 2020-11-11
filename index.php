@@ -26,6 +26,13 @@
         </span>
     </div>
 
+    <!--Suite en blanc-->
+    <div class="Suite">
+        <span class="contrainer">
+
+        </span>
+    </div>
+
 
     <!--Connexion-->
     <div id=Bloc_Connexion>
@@ -52,7 +59,6 @@
             document.getElementById("Bloc_Connexion").style.display = "block";
         }
     </script>
-
 
     <!--Footer-->
     <?php include "Page_Accueil/Footer.php" ?>
