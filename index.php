@@ -33,14 +33,16 @@
         <div class="Fiscalite">
             <div id="Image_Fiscalite">
                 <figure>
-                    <a href="Cours/Fiscalite/Fiscalite.php">
+                    <a href="Cours/Fiscalite/Fiscalite.php" style="box-shadow: 8px 8px 12px #aaa">
                         <img src="Image/Cours/Fiscalite.png" alt="Fiscalité" width="100%" height="100%">
                     </a>
                     <figcaption class="legende">COURS DE DROIT FISCAL</figcaption>
                 </figure>
             </div>
-            <div id="Text_fiscalite">
-                    Besoin de savoir d'informations sur la fiscalité française, pour apprendre, approfondir, ou mieux comprendre. alors ces videos explicatives sont faite pour vous.
+            <div class="Texte" style="float: left; color: #162035">
+                    Vous avez besoin d'informations sur la fiscalité française,<br>
+                    pour apprendre, approfondir, ou mieux comprendre. <br>
+                    alors ces videos explicatives sont faite pour vous.
             </div>
         </div>
 
@@ -48,18 +50,18 @@
         <div class="Droit_Social">
             <div id="Image_droit">
                 <figure>
-                    <a href="Cours/Droit_Social/Droit_Social.php">
-                        <img src="Image/Cours/Fiscalite.png" alt="Droit social" width="50%" height="50%">
+                    <a href="Cours/Droit_Social/Droit_Social.php" style="box-shadow: 8px 8px 12px #aaa">
+                        <img src="Image/Cours/Droit_Social.png" alt="Droit social" width="100%" height="100%">
                     </a>
                     <figcaption class="legende">COURS DE DROIT FISCAL</figcaption>
                 </figure>
             </div>
-            <div id="Text_Social">
+            <div class="Texte" style="padding-top: 15%; color: #a50048">
                     Besoin de savoir d'informations sur la fiscalité française, pour apprendre, approfondir, ou mieux comprendre. alors ces videos explicatives sont faite pour vous.
             </div>
         </div>
     </div>
-
+-
 
     <!--Connexion-->
     <div id=Bloc_Connexion>

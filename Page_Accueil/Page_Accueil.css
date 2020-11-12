@@ -232,30 +232,37 @@ input {
 }
 
 #Image_Fiscalite {
-    padding-top: 3%;
+    padding-top: 8%;
     float: left;
     width: 49%;
 }
 .legende {
-    margin-left: 15%;
+    margin-top: 10px;
+    margin-left: 18%;
     font-size: 25px;
     font-family: Oswald;
 }
 #Image_droit {
-    padding-top: 3%;
     float: right;
     width: 49%;
 }
 
-#Text_fiscalite {
-    margin-top: 10%;
+#Text_Fiscalite {
+    margin-top: 15%;
+    font-size: 20px;
     text-align: center;
     width: 49%;
     float: left;
 }
 
-#Text_Social {
-    margin-top: 10%;
+.Texte {
+    margin-top: 15%;
+    font-size: 30px;
+    text-align: center;
     width: 49%;
+    padding-bottom: 15%;
+}
 
+.Droit_Social {
+    padding-top: 15%;
 }

@@ -1,0 +1,92 @@
+body {
+    padding: 0;
+    margin: 0 ;
+}
+
+#Bande {
+    background-color: white;
+    border-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+}
+
+.liste {
+    display: block;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 10px;
+}
+.elementList {
+    width: 12.5%;
+    float: left;
+    font-size: 20px;
+    color: black;
+    text-decoration:none;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 10px 100px / 120px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.elementList_Logo {
+    width: 12.5%;
+    float: left;
+    font-size: 20px;
+    color: black;
+    text-decoration:none;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 10px 100px / 120px;
+    padding-bottom: 10px;
+    padding-left: 15%;
+}
+
+#footerAccueil {
+    width: 100%;
+    font-size: .9em;
+    display: inline-flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    bottom: 0;
+    position: absolute;
+    background-color: white;
+    color: black;
+}
+
+#div_propriete_footer{
+    text-align: center;
+    display: inline;
+    width: 100%;
+    margin: 5px;
+}
+
+#Titre {
+    text-align: center;
+    color: #162035;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #dbdbdb;
+
+}
+
+
+.Bases {
+    padding-top: 3%;
+}
+.Image{
+    float: left;
+    width: 40%;
+}
+
+.Texte {
+    float: left;
+    margin-top: 5%;
+    font-size: 25px;
+    text-align: left;
+
+}
+.Cours2 {
+    padding-top: 22%;
+}
+
+.w3-black, .w3-hover-black:hover{color:#fff!important;background-color:#000!important}
