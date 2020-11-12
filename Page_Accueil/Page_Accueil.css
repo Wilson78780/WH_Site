@@ -197,7 +197,6 @@ input {
     padding-top: 10px;
     padding-bottom: 10px;
     bottom: 0;
-    position: absolute;
     background-color: white;
     color: black;
 }
@@ -228,5 +227,35 @@ input {
     font-size: 25px;
 }
 .Suite {
+
     background-color: white;
+}
+
+#Image_Fiscalite {
+    padding-top: 3%;
+    float: left;
+    width: 49%;
+}
+.legende {
+    margin-left: 15%;
+    font-size: 25px;
+    font-family: Oswald;
+}
+#Image_droit {
+    padding-top: 3%;
+    float: right;
+    width: 49%;
+}
+
+#Text_fiscalite {
+    margin-top: 10%;
+    text-align: center;
+    width: 49%;
+    float: left;
+}
+
+#Text_Social {
+    margin-top: 10%;
+    width: 49%;
+
 }

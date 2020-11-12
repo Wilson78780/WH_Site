@@ -11,7 +11,7 @@
     <?php include "Page_Accueil/Header.php" ?>
 
     <!--Centre de la page d'Accueil-->
-    <div style="margin-left: 30px; margin-bottom: 50%">
+    <div style="margin-left: 30px; margin-bottom: 40%">
         <span id="Image_PA">
                 <img src="Image/Page_Accueil/Page_Accueil.jpg" height="80%" width="100%">
         </span>
@@ -26,11 +26,38 @@
         </span>
     </div>
 
-    <!--Suite en blanc-->
+    x<!--Suite en blanc-->
     <div class="Suite">
-        <span class="contrainer">
 
-        </span>
+        <!--fiscalité-->
+        <div class="Fiscalite">
+            <div id="Image_Fiscalite">
+                <figure>
+                    <a href="Cours/Fiscalite/Fiscalite.php">
+                        <img src="Image/Cours/Fiscalite.png" alt="Fiscalité" width="100%" height="100%">
+                    </a>
+                    <figcaption class="legende">COURS DE DROIT FISCAL</figcaption>
+                </figure>
+            </div>
+            <div id="Text_fiscalite">
+                    Besoin de savoir d'informations sur la fiscalité française, pour apprendre, approfondir, ou mieux comprendre. alors ces videos explicatives sont faite pour vous.
+            </div>
+        </div>
+
+        <!--Droi social-->
+        <div class="Droit_Social">
+            <div id="Image_droit">
+                <figure>
+                    <a href="Cours/Droit_Social/Droit_Social.php">
+                        <img src="Image/Cours/Fiscalite.png" alt="Droit social" width="50%" height="50%">
+                    </a>
+                    <figcaption class="legende">COURS DE DROIT FISCAL</figcaption>
+                </figure>
+            </div>
+            <div id="Text_Social">
+                    Besoin de savoir d'informations sur la fiscalité française, pour apprendre, approfondir, ou mieux comprendre. alors ces videos explicatives sont faite pour vous.
+            </div>
+        </div>
     </div>
 
 
