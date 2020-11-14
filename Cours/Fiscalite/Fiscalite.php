@@ -8,11 +8,12 @@
 
 <body contenteditable="false">
 
-    <!--Header-->
-    <?php include "Header.php" ?>
 
     <!--Titre-->
-    <h1 id="Titre">
+    <span>
+        <a href="../../index.php"> <img src="../../Image/Cours/Logo_fisca.png" height="30%" width="30%" id="logo"> </a>
+    </span>
+    <h1 style="margin: 0" id="Titre">
         DROIT FISCAL
     </h1>
 

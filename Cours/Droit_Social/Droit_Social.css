@@ -62,10 +62,17 @@ body {
 #Titre {
     text-align: center;
     color: #a50048;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    background: #dbdbdb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #e3cee1;
+    padding-right: 12%;
 
+}
+
+#logo {
+    float: left;
+    width: 8%;
+    margin-left: 100px;
 }
 
 .Bases {
@@ -190,3 +197,4 @@ body {
     from {opacity: .4}
     to {opacity: 1}
 }
+
