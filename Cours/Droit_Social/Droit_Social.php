@@ -83,8 +83,8 @@
         }
     </script>
 
-
-    <!--Cours 1-->
+        <!--à modifier
+        --Cours 1--
     <div style="background-color: #83013a">
         <div id="Cours">
             <div class="Bases">
@@ -98,7 +98,7 @@
                 regarder la vidéo qui vous intéresse le plus.
             </div>
         </div>
-        <!--Cours 2-->
+            --Cours 2--
         <div id="Cours2">
             <div class="Bases">
                 <figure class="Image">
@@ -112,7 +112,7 @@
                 les vidéos suivantes.
             </div>
         </div>
-        <!--Cours 3-->
+            --Cours 3--
         <div id="Cours3">
             <div class="Bases">
                 <figure class="Image">
@@ -124,11 +124,11 @@
                 Comme les revenus locatifs, mais pas que...
             </div>
         </div>
-    </div>
+    </div>-->
 
 
-    <!--Footer-->
-    <?php include "../../Page_Accueil/Footer.php" ?>
+    <!--Footer à ajouter-->
+
 
 
 
