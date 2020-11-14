@@ -63,7 +63,7 @@ body {
     text-align: center;
     color: #a50048;
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     background: #e3cee1;
     padding-right: 12%;
 
@@ -71,7 +71,7 @@ body {
 
 #logo {
     float: left;
-    width: 8%;
+    width: 6%;
     margin-left: 100px;
 }
 

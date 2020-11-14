@@ -19,7 +19,7 @@
     <!--Liste vidéos tuto-->
     <!--Test-->
     <!-- Slideshow container -->
-    <div style="margin-bottom: 5%">
+    <div style="margin-bottom: 10%">
         <div class="slideshow-container">
 
             <!-- Full-width images with number and caption text -->
